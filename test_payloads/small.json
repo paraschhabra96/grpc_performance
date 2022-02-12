@@ -1,0 +1,47 @@
+[
+  {
+    "_id": "61d0217d0b68bc73b9779ef4",
+    "index": 0,
+    "guid": "d034f576-b551-4f85-9841-6dbf37cb056e",
+    "isActive": false,
+    "balance": "$2,794.49",
+    "picture": "http://placehold.it/32x32",
+    "age": 38,
+    "eyeColor": "brown",
+    "name": "Sanders Hickman",
+    "gender": "male",
+    "company": "ZILLACTIC",
+    "email": "sandershickman@zillactic.com",
+    "phone": "+1 (929) 581-3854",
+    "address": "688 Rost Place, Belvoir, Indiana, 3702",
+    "about": "Id culpa nisi laborum occaecat irure amet ad mollit. Ullamco laborum eiusmod exercitation voluptate tempor ut consectetur ea aute mollit culpa consequat ex ut. Nulla cillum eu labore eiusmod ipsum dolore sit ex eu. Nostrud ullamco occaecat quis aute adipisicing qui occaecat irure eiusmod reprehenderit magna dolore fugiat Lorem. Ut duis exercitation aliqua laborum ex voluptate ea.\r\n",
+    "registered": "2018-09-14T12:06:17 -06:-30",
+    "latitude": -47.569641,
+    "longitude": -30.329537,
+    "tags": [
+      "deserunt",
+      "consectetur",
+      "ex",
+      "do",
+      "sit",
+      "magna",
+      "aliquip"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Christie Byers"
+      },
+      {
+        "id": 1,
+        "name": "Kristen Allen"
+      },
+      {
+        "id": 2,
+        "name": "Mercado Dodson"
+      }
+    ],
+    "greeting": "Hello, Sanders Hickman! You have 8 unread messages.",
+    "favoriteFruit": "banana"
+  }
+]
